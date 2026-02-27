@@ -2,7 +2,7 @@ import javax.swing.*;
 
 public class FlowExample {
     public static void main(String[] args) {
-
+ 
         JFrame frame = new JFrame("FlowLayout Example");
         frame.setSize(300, 200);
         frame.setLayout(new java.awt.FlowLayout());
