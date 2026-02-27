@@ -2,7 +2,7 @@ import java.awt.BorderLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 
-public class Layout {
+public class Layout { 
     public static void main(String[] args) {
 
         // Create the main window (frame)
