@@ -5,7 +5,7 @@ class Toy {
 		System.out.println("Toy Name: "+ name);
 	}
 }
-
+ 
 public class Mainn {
 	public static void main(String[] args) {
 		
