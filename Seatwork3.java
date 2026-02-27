@@ -40,7 +40,7 @@ class Cow extends Animal {
     }
 }
 
-public class twoSeatwork3 {
+public class Seatwork3 {
     public static void main(String[] args) {
 
         Dog dog = new Dog();
